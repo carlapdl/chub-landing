@@ -1,4 +1,4 @@
-# My Portfolio Landing Page
+# My Portfolio Landing Page Version 1.0
 
 The styles and design of this landing page is based on the Freelance Bootstrap theme created by Start Bootstrap.
 
