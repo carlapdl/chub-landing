@@ -2,6 +2,10 @@
 
 The styles and design of this landing page is based on the Freelance Bootstrap theme created by Start Bootstrap.
 
+### Preview:
+
+<img src="assets/img/profile-site-v1-preview.png" />
+
 ### This Website is built with:
 <div>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
